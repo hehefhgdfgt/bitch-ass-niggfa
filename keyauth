@@ -1,3 +1,5 @@
+local License = "JhcOcS-PgR4B2-71tmdO-6LD5Nw-RNTtZW-CeVoMp"
+
 print(' KeyAuth Lua Example - https://github.com/mazk5145/')
 local HttpService = game:GetService("HttpService")
 local StarterGui = game:GetService("StarterGui")
